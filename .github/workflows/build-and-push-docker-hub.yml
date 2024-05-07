@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: thanhph2k3/cicd2024:meadow
+          tags: thanhph2k3/cicd2024:Arlecchino
 
 
   pull-and-up:
